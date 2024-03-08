@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+	<title>Keila Gss</title>
+	<meta charset="UTF-8"> <!----aceita pontuação, acentos---->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+	<header> <!---Cabeçalho do site/pagina--->
+	
+	
+	</header>
+	
+	<main>
+	
+	</main>
+	
+	<footer>
+	
+	</footer>
+
+</body>
+
+</html>
